@@ -2,6 +2,8 @@ openvpn-change-servers
 ====================== 
 A bash script to easily switch between server configurations in openvnp
 
+Installation
+======================
 Before you can use this script, you need to set up a username file that includes your username and pw for the vpn service you're using
 To do this, do the following:
 
