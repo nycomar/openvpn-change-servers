@@ -23,7 +23,7 @@ fi
 VARBL=0
 
 
-FILES="/root/scripts/conf_files/$protocol/*"
+FILES="./conf_files/$protocol/*"
 
 echo "Choose server"
 for f in $FILES
