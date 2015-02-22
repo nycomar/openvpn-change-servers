@@ -1,3 +1,5 @@
+#!/bin/bash
+
 rm -rf pia_confs/
 mkdir pia_confs
 wget https://www.privateinternetaccess.com/openvpn/openvpn-tcp.zip
